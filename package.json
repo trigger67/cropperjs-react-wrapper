@@ -1,6 +1,6 @@
 {
   "name": "cropperjs-react-wrapper",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "A React wrapper for Cropper.js 2.0",
   "repository": {
     "type": "git",
